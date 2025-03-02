@@ -1,3 +1,10 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(48, 47, 47);
 }
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
