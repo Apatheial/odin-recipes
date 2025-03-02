@@ -3,8 +3,52 @@
     background-color: rgb(48, 47, 47);
 }
 
-h1 {
-    color: white;
+h1, 
+.titulo-descricao {
     text-align: center;
 }
 
+h1,
+.descricao {
+    color: white;
+}
+
+.titulo-receita {
+    font-size: 36px;
+}
+
+.titulo-descricao, 
+.titulo-ingredientes,
+.titulo-preparo {
+    font-size: 26px;
+}
+
+.titulo-descricao {
+    color: rgb(195, 250, 250);
+}
+
+.titulo-ingredientes {
+    color: rgb(255, 245, 195);
+}
+
+.titulo-preparo{
+    color: rgb(255, 204, 195);
+}
+
+.descricao {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.lista-ingredientes li,
+.lista-preparo li {
+    font-weight: bold;
+}
+
+.lista-ingredientes li {
+    font-size: 20px;
+}
+
+.lista-preparo li {
+    font-size: 18px;
+}
